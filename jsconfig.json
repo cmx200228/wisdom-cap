@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "target": "esnext",
+      "allowJs": true
+    },
+    "include": [
+      "src/**/*.js"
+    ],
+    "exclude": [
+      "node_modules"
+    ],
+    "extensions": [
+      ".vue"
+    ]
+  }
+  

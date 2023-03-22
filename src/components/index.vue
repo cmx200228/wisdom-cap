@@ -4,9 +4,9 @@
     </div>
 </template>
     
-<script lang="ts">
+<script>
 export default {
-    name: "NavIndex",
+    name: "index",
 };
 </script>
     
